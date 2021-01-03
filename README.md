@@ -10,15 +10,15 @@ The following are the `DOMAIN-SET` maintained by [AdGuard](https://kb.adguard.co
 
 | Rule                           | URL                                                                                       | Description                                          |
 | ------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| adaway.txt                     | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/adaway.txt                     | https://adaway.org                                   |
-| annoyances-filter.txt          | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/annoyances-filter.txt          | https://kb.adguard.com/en/general/adguard-ad-filters |
-| base-filter.txt                | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/base-filter.txt                | https://kb.adguard.com/en/general/adguard-ad-filters |
-| chinese-filter.txt             | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt             | https://kb.adguard.com/en/general/adguard-ad-filters |
-| neohosts-full.txt              | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/neohosts-full.txt              | https://github.com/neoFelhz/neohosts                 |
-| neohosts.txt                   | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/neohosts.txt                   | https://github.com/neoFelhz/neohosts                 |
-| social-media-filter.txt        | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/social-media-filter.txt        | https://kb.adguard.com/en/general/adguard-ad-filters |
-| tracking-protection-filter.txt | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/tracking-protection-filter.txt | https://kb.adguard.com/en/general/adguard-ad-filters |
-| dns-filter.txt                 | https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/dns-filter.txt                 | https://kb.adguard.com/en/general/adguard-ad-filters |
+| adaway.txt                     | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/adaway.txt                     | https://adaway.org                                   |
+| annoyances-filter.txt          | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/annoyances-filter.txt          | https://kb.adguard.com/en/general/adguard-ad-filters |
+| base-filter.txt                | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/base-filter.txt                | https://kb.adguard.com/en/general/adguard-ad-filters |
+| chinese-filter.txt             | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/chinese-filter.txt             | https://kb.adguard.com/en/general/adguard-ad-filters |
+| neohosts-full.txt              | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/neohosts-full.txt              | https://github.com/neoFelhz/neohosts                 |
+| neohosts.txt                   | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/neohosts.txt                   | https://github.com/neoFelhz/neohosts                 |
+| social-media-filter.txt        | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/social-media-filter.txt        | https://kb.adguard.com/en/general/adguard-ad-filters |
+| tracking-protection-filter.txt | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/tracking-protection-filter.txt | https://kb.adguard.com/en/general/adguard-ad-filters |
+| dns-filter.txt                 | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/dns-filter.txt                 | https://kb.adguard.com/en/general/adguard-ad-filters |
 
 ## Contribute
 
