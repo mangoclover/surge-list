@@ -1,3 +1,5 @@
+本项目最早是 Fork [geekdada/surge-list](https://github.com/geekdada/surge-list) 定制修改而来。
+
 # surge-list
 
 一些有用的规则集。
