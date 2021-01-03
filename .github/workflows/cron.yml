@@ -1,6 +1,7 @@
 name: Cron
 
 on:
+  workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 0 * * *'
@@ -41,8 +42,8 @@ jobs:
         uses: EndBug/add-and-commit@v5
         with:
           add: 'domain-set'
-          author_name: Roy Li
-          author_email: me@dada.li
+          author_name: mangoclover
+          author_email: 48041092+mangoclover@users.noreply.github.com
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
