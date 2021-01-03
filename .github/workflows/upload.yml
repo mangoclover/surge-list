@@ -26,18 +26,10 @@ jobs:
         id: ossutil
         uses: go-choppy/ossutil-github-action@master
         with:
-          ossArgs: ${{ secrets.OSS_ARGS }}
+          ossArgs: 'cp -r -u ./ oss://mangoclover-docs'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: ${{ secrets.OSS_ENDPOINT }}
 
       - name: Output command
         run: echo "${{steps.ossutil.outputs.command}}"
-
-      - name: Telegram Notify
-        uses: yanzay/notify-telegram@v0.1.0
-        if: always()
-        with:
-          chat: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
-          status: ${{ job.status }}
