@@ -7956,6 +7956,7 @@
 .moneyzenith.com
 .mongdaughc.fun
 .monotonoussurveytoxic.com
+.montafp.top
 .montkpl.top
 .montwam.top
 .mooaleoat.com
@@ -18763,7 +18764,6 @@
 .lcs.loginfra.com
 .adblock-analytics.io
 .aukana.jp
-.telemetry.api.wmcdp.io
 .logs.psm.wmcdp.io
 .pixel.tapad.com
 .nlog.nethru.io
@@ -24953,6 +24953,7 @@
 .d28g9g3vb08y70.cloudfront.net
 .d2as12kgjg8gw5.cloudfront.net
 .d2cpw6kwpff7n5.cloudfront.net
+.d2gbtcuv3w9qyv.cloudfront.net
 .d2ibu2ug0mt5qp.cloudfront.net
 .d2kdl5wcwrtj90.cloudfront.net
 .d2nxi61n77zqpl.cloudfront.net
@@ -25143,6 +25144,7 @@
 .k.streamrail.com
 .kalstats.kaltura.com
 .keyword.daumdn.com
+.keywords.complex.com
 .l.fairblocker.com
 .l.ooyala.com
 .l.player.ooyala.com
@@ -25474,6 +25476,7 @@
 .tc.airfrance.com
 .tcheck.outbrainimg.com
 .te.supportfreecontent.com
+.telemetry.api.wmcdp.io
 .telemetry.reembed.com
 .telemetry.soundcloud.com
 .telemetry.tableausoftware.com
@@ -36310,6 +36313,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.wfaffwshop.xyz
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
