@@ -25138,6 +25138,7 @@
 .ipapi.tmbi.com
 .irqs.ioam.de
 .itracking.fccinteractive.com
+.jac.yahoosandbox.com
 .javascriptcounter.appspot.com
 .jelly.mdhv.io
 .js-agent.newrelic.com
