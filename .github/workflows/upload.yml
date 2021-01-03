@@ -26,7 +26,7 @@ jobs:
         id: ossutil
         uses: go-choppy/ossutil-github-action@master
         with:
-          ossArgs: 'cp -r -u ./ oss://mangoclover-docs'
+          ossArgs: 'cp -r -u ./ oss://choppy-docs'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: ${{ secrets.OSS_ENDPOINT }}
