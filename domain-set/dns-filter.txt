@@ -24427,6 +24427,7 @@
 .cubchannel.com
 .culturedcrayon.com
 .curvycry.com
+.cushionpig.com
 .damdoor.com
 .dampdock.com
 .dapperdiscussion.com
@@ -25130,6 +25131,7 @@
 .ingest.sentry.io
 .insight.mintel.com
 .insight.rapid7.com
+.insights.algolia.io
 .insights.plista.com
 .insights.sitesearch360.com
 .insitez.blob.core.windows.net
@@ -25676,6 +25678,7 @@
 .sgphctileh-a.akamaihd.net
 .uhytajrtpo-a.akamaihd.net
 .zvsuhljiha-a.akamaihd.net
+.7q1z79gxsi.global.ssl.fastly.net
 .clarium.global.ssl.fastly.net
 .dfapvmql-q.global.ssl.fastly.net
 .cyveillance.com
@@ -35917,7 +35920,6 @@
 .dm.wenshenxiu.com
 .dm.zuowenku.net
 .dm1.ddwk8.cn
-.dm1.dnpz123.com
 .dm1.guanwawa.com
 .dm1.zjydt.com
 .dmm.aizhan.com
