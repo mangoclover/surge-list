@@ -50,3 +50,16 @@ jobs:
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Purge CDN Cache
+        run: |
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/adaway.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/annoyances-filter.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/base-filter.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/chinese-filter.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/neohosts-full.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/neohosts.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/social-media-filter.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/tracking-protection-filter.txt > /dev/null 2>&1
+          curl -L https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/dns-filter.txt > /dev/null 2>&1
+          
