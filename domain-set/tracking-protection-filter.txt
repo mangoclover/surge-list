@@ -5870,6 +5870,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.smetrics.aem.playstation.com
+.telemetry.api.playstation.com
 .trk2.pinterest.com
 .mobiletelemetry.ebay.com
 .tracker.departapp.com
