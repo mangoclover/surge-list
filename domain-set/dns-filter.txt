@@ -11694,6 +11694,7 @@
 .varylioness.com
 .vasgenerete.site
 .vashoaft.net
+.vasstycom.com
 .vatname.info
 .vatskaylittl.club
 .vaultwrite.com
@@ -20499,7 +20500,6 @@
 .tr.junaroad.com
 .tracker.shopclues.com
 .beacon.itmedia.jp
-.d3j1weegxvu8ns.cloudfront.net
 .trk.performanceplay.co.kr
 .atlas1.krone.at
 .spr.bild.de
@@ -21846,6 +21846,7 @@
 .christiantop1000.com
 .christmalicious.com
 .chrumedia.com
+.chtbl.com
 .cintnetworks.com
 .circular-counters.com
 .ck-cdn.com
@@ -24987,6 +24988,7 @@
 .d3cgm8py10hi0z.cloudfront.net
 .d3cxv97fi8q177.cloudfront.net
 .d3iouejux1os58.cloudfront.net
+.d3j1weegxvu8ns.cloudfront.net
 .d3kyk5bao1crtw.cloudfront.net
 .d3l3lkinz3f56t.cloudfront.net
 .d3m6sept6cnil5.cloudfront.net
@@ -25055,6 +25057,7 @@
 .event.api.drift.com
 .event.getblue.io
 .event.syndigo.cloud
+.event.webcollage.net
 .eventapi.libring.com
 .eventgateway.soundcloud.com
 .eventlog.inspsearchapi.com
