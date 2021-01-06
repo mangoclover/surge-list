@@ -1,3 +1,4 @@
+.app-department.report
 .saguvacu.xyz
 .adcryp.to
 .bitcointraffic.ltd
