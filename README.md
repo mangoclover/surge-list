@@ -21,7 +21,3 @@ The following are the `DOMAIN-SET` maintained by [AdGuard](https://kb.adguard.co
 | social-media-filter.txt        | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/social-media-filter.txt        | https://kb.adguard.com/en/general/adguard-ad-filters |
 | tracking-protection-filter.txt | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/tracking-protection-filter.txt | https://kb.adguard.com/en/general/adguard-ad-filters |
 | dns-filter.txt                 | https://cdn.jsdelivr.net/gh/mangoclover/surge-list/domain-set/dns-filter.txt                 | https://kb.adguard.com/en/general/adguard-ad-filters |
-
-## Contribute
-
-Add or modify script in __scripts__ folder. PR are welcome.
