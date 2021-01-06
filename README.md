@@ -8,7 +8,7 @@
 
 以下是 Surge 能直接使用的 [AdGuard](https://kb.adguard.com/en/general/adguard-ad-filters) 维护的域名规则。规则每天早上 6:30 自动更新。
 
-The following are the `DOMAIN-SET` maintained by [AdGuard](https://kb.adguard.com/en/general/adguard-ad-filters) that Surge can directly use. Rules update at 6:30 every morning.
+The following are the `DOMAIN-SET` maintained by [AdGuard](https://kb.adguard.com/en/general/adguard-ad-filters) that Surge can directly use. The rules are automatically updated at 6:30 every morning.
 
 | Rule                           | URL                                                                                       | Description                                          |
 | ------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
