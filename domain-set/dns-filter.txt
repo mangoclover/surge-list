@@ -1,7 +1,8 @@
+.selfswayjay.com
+.0x01n2ptpuz3.com
+.spyglass.reklamko.pro
 .hosupshunk.com
 .download-file.ml
-.resumersvo.fun
-.yiatelychur.top
 .blastcahs.com
 .deligrassdull.com
 .sitefeytout.com
@@ -18,7 +19,6 @@
 .top-performance.best
 .anomaloustradingmerciful.com
 .jeerszitstoke.com
-.adieusyaktop.com
 .pc20160301.com
 .pc180101.com
 .cbmiocw.com
@@ -1733,6 +1733,8 @@
 .xpostx.com
 .yesadvertising.com
 .zeti.com
+.resumersvo.fun
+.yiatelychur.top
 .stripe.rs-1028-a.com
 .hub.fghtem.com
 .analyticsq.com
@@ -2632,6 +2634,7 @@
 .adhealers.com
 .adhits.cf
 .adhoc4.net
+.adieusyaktop.com
 .adifficiente.top
 .aditingunfav.club
 .adjectivates.xyz
@@ -3943,6 +3946,7 @@
 .cloakroomobsceneredress.com
 .cloudgallery.net
 .cloudimagesa.com
+.cluethydash.com
 .cluodlfare.com
 .clxgmlpfkoj.com
 .clzfurcqmlgw.com
@@ -4323,6 +4327,7 @@
 .definitedikdra.site
 .defutohy.pro
 .dehydratedpredestinationplenty.com
+.deicemaptwin.com
 .deiligejenter.com
 .deiqehvcdnntg.com
 .dejourned.club
@@ -6972,6 +6977,7 @@
 .kagrooxa.net
 .kaiphapt.net
 .kakyomloctqiu.com
+.kalespurhoes.com
 .kamnebo.info
 .kapphtskno.com
 .kapuaawase.com
@@ -8969,6 +8975,7 @@
 .padspms.com
 .padsreds.com
 .paegcsvchsdlbj.com
+.pafovocg.bid
 .pagaynrbee.com
 .paginw.com
 .pagiwp.com
@@ -10048,6 +10055,7 @@
 .rindicalapa.fun
 .rinedcountilconsiden.info
 .ringassum.club
+.ringsnutdaze.com
 .rintellsfundrew.info
 .riodovernprovi.club
 .riokl.com
@@ -10349,6 +10357,7 @@
 .scripsjeermint.com
 .scrutchother.club
 .scswlgxttvekd.com
+.scudspulsedrail.com
 .sculifinanthools.site
 .scvdxxgbvoz.com
 .sczcxmaizy.com
@@ -10683,6 +10692,7 @@
 .specimensspittleentrepreneur.com
 .speckdiversitypiety.com
 .specularpro.site
+.spedhowusing.com
 .speechmomentarily.com
 .speedlinkdown.com
 .speedometergreatness.com
@@ -10817,7 +10827,6 @@
 .stroublederel.club
 .strychninique.site
 .stsunfulnoth.top
-.studentloan.host
 .stumbledabetsuburb.com
 .sturdyinvaluable.com
 .sturgeonlibel.com
@@ -10995,6 +11004,7 @@
 .teipgupp.com
 .tek-tek-trek.com
 .tel-tel-fie.com
+.telegramspun.com
 .telephants.club
 .telesscolitical.club
 .televeniesuc.pro
@@ -12268,6 +12278,7 @@
 .wvahelphpfnhyx.com
 .wvbdtcyhgwy.com
 .wvesvozyuoxg.com
+.wvgrpwdaol.bid
 .wvhsouzoan.com
 .wvlveodsvygn.com
 .wvoahyehtvj.com
@@ -12526,6 +12537,7 @@
 .xxutoyreg.com
 .xxxadu.com
 .xxxbyhxp.com
+.xygediwe.xyz
 .xymtglljft.com
 .xywwomayptsd.com
 .xzdlleawpx.com
@@ -13381,7 +13393,6 @@
 .adnet.de
 .adnet.lt
 .adnet.ru
-.adnet.vn
 .adnetworkme.com
 .adnetworkperformance.com
 .adneutralads.com
@@ -18786,6 +18797,8 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .visilabs.com
+.tracker.metricool.com
+.stats.myangular.life
 .counter.daara.kr
 .tr.line.me
 .log22.makeshop.co.kr
@@ -20305,6 +20318,7 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.x.babe.today
 .prod-collector.bigbasket.com
 .tracking.game8.jp
 .lcs.modoo.at
@@ -21109,6 +21123,9 @@
 .register.appsflyer.com
 .events.appsflyer.com
 .track.appsflyer.com
+.digianalytics.airtel.in
+.ad-creative.projectcarmen.com
+.analytics.projectcarmen.com
 .monitoring-sdk.experimentation.intuit.com
 .logging.api.intuit.com
 .analytics.prod.mybuddy.ai
@@ -22725,7 +22742,6 @@
 .logentries.com
 .logger.pw
 .loggly.com
-.loginfra.com
 .loginhood.io
 .logmatic.io
 .lognormal.net
@@ -25533,6 +25549,7 @@
 .tags.master-perf-tools.com
 .tags.newscgp.com
 .tags.refinery89.com
+.tagtracking.vibescm.com
 .target.mixi.media
 .targeting.*.arcpublishing.com
 .targeting.perso.aws.arc.pub
@@ -25654,6 +25671,7 @@
 .tracking.scenepass.com
 .tracking.searchmarketing.com
 .tracking.sembox.it
+.tracking.sezzle.com
 .tracking.skyword.com
 .tracking.sokrati.com
 .tracking.sponsorpay.com
@@ -27187,6 +27205,10 @@
 .xclk-integracion.com
 .yestorrents.org
 .zebestof.com
+.tiz.jsite.top
+.news-network.ru
+.alboist7crphfrg.ru
+.boostingads.com
 .prod.html5-ads.vk-apps.com
 .3kbktygzr5.ru
 .betemolgar.com
@@ -27548,7 +27570,6 @@
 .prfctmney.com
 .knwekg.com
 .vftbnl.com
-.spyglass.reklamko.pro
 .patroposalun.pro
 .wrfiwa.ru
 .swnmuh.ru
@@ -32255,6 +32276,7 @@
 .codes.wai.it
 .comads.de
 .conative.de
+.connects.ch
 .contentfeed.net
 .cowana-adserver.de
 .cuiron.de
@@ -32839,6 +32861,7 @@
 .admicro*.vcmedia.com
 .admicro*.vcmedia.vn
 .admicro.vn
+.adnet.vn
 .adnetwork.vn
 .adpia.vn
 .adrealclick.com
@@ -33008,6 +33031,7 @@
 .adpostback.headlines.pw
 .ads-cdn.fptplay.net
 .ads.1thegioi.vn
+.ads.baoangiang.com.vn
 .ads.baobinhduong.vn
 .ads.baodatviet.vn
 .ads.baotainguyenmoitruong.vn
@@ -33049,10 +33073,12 @@
 .advertisement-nhatanh.com
 .advserver.cgv.vn
 .adx.baolongan.vn
+.adx.chinmedia.vn
 .adx.edutimes.com.vn
 .adx.hongtinnhanh.com
 .adx.kul.vn
 .adx.xemvtv.net
+.adx.xtv.vn
 .affiliate.k4.tinhte.vn
 .ailamtrieuphu.com
 .ak9.6895588.com
@@ -33256,6 +33282,7 @@
 .track-srv.vietnamnet.vn
 .track.accesstrade.vn
 .track.icheck.com.vn
+.track.kyna.vn
 .track.lapa.pub
 .track.pregmomvietnam.com
 .track.sendo.vn
@@ -33453,6 +33480,8 @@
 .ucesreferre.club
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+.govjiangsu.cn
+.govbeijing.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -36459,6 +36488,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.gongxifacai21.top
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
