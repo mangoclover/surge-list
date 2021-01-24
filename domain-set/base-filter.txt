@@ -437,7 +437,6 @@
 .hiqubonenete.tk
 .ftigholm.site
 .publish.iptvz.net
-.yieldlove-ad-serving.net
 .start.parimatch.com
 .abskursin.com
 .nakedreel.com
@@ -17632,6 +17631,7 @@
 .yieldbuild.com
 .yieldkit.com
 .yieldlab.net
+.yieldlove-ad-serving.net
 .yieldlove.com
 .yieldmanager.net
 .yieldoptimizer.com
