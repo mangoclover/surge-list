@@ -133,7 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.braincf.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -678,6 +677,7 @@
 .bosiwangzi.cn
 .bozhihua.com
 .bozhixiang.top
+.braincf.com
 .bs777.net
 .bskeye.com
 .bsriedu.cn
@@ -2975,6 +2975,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
+.bd.beimap.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3779,8 +3780,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.cnrok169.com
-.jiedaibao120.cn
+.o5ikm6.cn
+.jzrzpump.com
+.f50b5.cn
+.mjtowot.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4269,6 +4272,7 @@
 .cnlhg.cn
 .cnliken.com
 .cnoufangfeng.cn
+.cnrok169.com
 .cnshef.com
 .cnxmyb.cn
 .cnyibs.com
@@ -4812,6 +4816,7 @@
 .jiayi2019.top
 .jiayiss.com
 .jiazihao.cn
+.jiedaibao120.cn
 .jiejiemimu.cn
 .jieyixiu.com
 .jiguangyi.com.cn
