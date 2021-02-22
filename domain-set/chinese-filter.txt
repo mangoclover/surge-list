@@ -134,6 +134,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.ytop8.com
+.jungbey.xyz
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -3009,6 +3011,7 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
+.abc.rwpt.top
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3821,8 +3824,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.shantelope.com
-.cjyjqw.cn
+.lvsechufang.com
+.zjlfqf.com
+.zhuanquxian.com
+.dadedaxue.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4304,6 +4309,7 @@
 .cityd.xyz
 .cityf.xyz
 .cjh9.cn
+.cjyjqw.cn
 .ckaiv.com
 .ckikq.com
 .ckjyck.qxs.la
@@ -5502,6 +5508,7 @@
 .sgyebd.com
 .shangyingwm.com
 .shanprint.com
+.shantelope.com
 .shanyuebrowser.com
 .shaque.vip
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
