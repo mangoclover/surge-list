@@ -5,6 +5,9 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.uncn.jp
+.ad-spire.net
+.f-counter.net
 .moshimo.com
 .counter.monkeybanana3.com
 .analytic-client.playful-fairies.com
