@@ -134,7 +134,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.quehq.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -257,7 +256,11 @@
 .321tui.com
 .32414.com
 .3324.cn
+.3336653.com
 .3336657.com
+.3336670.com
+.3336691.com
+.3337706.com
 .3337739.com
 .3337781.com
 .333dm.com
@@ -1854,6 +1857,7 @@
 .qucaigg.com
 .qudaoweiwang.com
 .queene.cn
+.quehq.com
 .quw18.com
 .qvpublish.com
 .qwfknhc.cn
@@ -2816,6 +2820,7 @@
 .by8974.com
 .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 .cacafly.net
+.cbjs.ciwei.in
 .cdgfa.ifeng.com
 .cdn.imvkan.com
 .cdn.wuyou.ca
@@ -3009,7 +3014,6 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.cbjs.ciwei.in
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3832,6 +3836,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.nongfumg.com
+.njcyt.com
+.hnjcdjx.com
+.ez2kyh.cn
+.kypzu.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
