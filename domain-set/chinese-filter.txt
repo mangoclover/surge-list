@@ -137,6 +137,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.gg.miued.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -3032,7 +3033,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.w.anmeihe.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3686,6 +3686,7 @@
 .vv1.pyhfxdm.cn
 .vvv.ieduw.com
 .vyule.com
+.w.anmeihe.cn
 .w.xiaopiaoyou.com
 .w11.zhongkaohelp.com
 .w18.9939.com
@@ -3847,9 +3848,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.g1psz5.cn
-.adfangxiang.com
-.2bssjsq.com
+.linkjingkeji.com
+.anhaochem.com
+.wzjs1.oss-accelerate.aliyuncs.com
+.feizailin.com
+.uu7ey6.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .0234408.cn
@@ -3903,6 +3906,7 @@
 .258580w.cn
 .258zw.com
 .282l1.cn
+.2bssjsq.com
 .2gvuukm1lm.com
 .2ktd0.cn
 .2l1f.cn
@@ -4047,6 +4051,7 @@
 .actingidekex.cn
 .adaog.com
 .adddyy.com
+.adfangxiang.com
 .adhdsb.cn
 .admddc.com
 .aduic.com
@@ -4585,6 +4590,7 @@
 .fzdfwy.com
 .fzxrjx.com
 .g1mm3d.cn
+.g1psz5.cn
 .g3ao2q.cn
 .g4rre.xyz
 .g8waw1.cn
