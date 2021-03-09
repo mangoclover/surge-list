@@ -144,6 +144,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.miaolejieshui.cn
 .huataisangao.cn
 .00-gov.cn
 .0024aaaa.com
@@ -911,7 +912,6 @@
 .fexiaen.com
 .ffa9.cn
 .fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
-.fijipic.xyz
 .fisher56.com
 .fjbzjc.com
 .fjdy.cc
@@ -2659,6 +2659,7 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.ad.byfuh.com
 .3336672.com
 .3337729.com
 .3337751.com
