@@ -2504,7 +2504,6 @@
 .howdoesin.net
 .hs-analytics.net
 .analytics.htmedia.in
-.app.hubspot.com
 .api.huqindustries.co.uk
 .charles.huqindustries.co.uk
 .crosspromo.hutchgames.io
