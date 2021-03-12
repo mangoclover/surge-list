@@ -5330,15 +5330,6 @@
 .log.umsns.com
 .stats.umsns.com
 .umtrack.com
-.a.unbounce.com
-.api.unbounce.com
-.app.unbounce.com
-.assets.unbounce.com
-.builder-assets.unbounce.com
-.ensign.unbounce.com
-.image-service.unbounce.com
-.t.unbounce.com
-.think.unbounce.com
 .rlog-api.under9.co
 .ads.undertone.com
 .creative-p.undertone.com
